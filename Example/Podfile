@@ -1,0 +1,6 @@
+use_frameworks!
+target 'BaseVc_Tests' do
+  pod 'BaseVc', :path => '../'
+  
+  
+end
