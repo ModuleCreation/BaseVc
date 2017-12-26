@@ -1,0 +1,6 @@
+framework module BaseVc {
+  umbrella header "BaseVc-umbrella.h"
+
+  export *
+  module * { export * }
+}

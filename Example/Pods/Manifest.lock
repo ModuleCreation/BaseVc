@@ -1,0 +1,16 @@
+PODS:
+  - BaseVc (0.1.0)
+
+DEPENDENCIES:
+  - BaseVc (from `../`)
+
+EXTERNAL SOURCES:
+  BaseVc:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  BaseVc: 42772901e51dbd7206740a353e5497659fafeeb6
+
+PODFILE CHECKSUM: 472eecc49ff6fd73084aedb66e49b24c07151070
+
+COCOAPODS: 1.3.0.beta.1

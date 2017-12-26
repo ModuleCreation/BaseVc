@@ -1,0 +1,22 @@
+{
+  "name": "BaseVc",
+  "version": "0.1.0",
+  "summary": "A short description of BaseVc.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/TPQuietBro/BaseVc",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "TPQuietBro": "luoxin3116@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/TPQuietBro/BaseVc.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "BaseVc/Classes/**/*"
+}
